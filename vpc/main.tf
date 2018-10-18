@@ -1,5 +1,5 @@
 # create vpc
-# super basic building block
+# requires name (for tags)
 
 # vpc
 #
